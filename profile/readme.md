@@ -17,7 +17,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 10 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 11 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 12 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-13 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+13 |  | [Github](https://github.com/CyberCracker27/Leetcode) | [Leetcode](https://leetcode.com/u/CyberCracker27/) | ![](https://leetcard.jacoblin.cool/)
 14 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 15 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 16 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
